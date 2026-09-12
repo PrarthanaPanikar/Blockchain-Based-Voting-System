@@ -1,0 +1,30 @@
+{
+  "name": "blockchain-voting-system",
+  "version": "1.0.0",
+  "description": "Educational blockchain voting prototype using Solidity smart contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile",
+    "deploy": "hardhat run scripts/deploy.js --network localhost",
+    "node": "hardhat node"
+  },
+  "keywords": [
+    "blockchain",
+    "solidity",
+    "voting",
+    "ethereum",
+    "smart-contract",
+    "web3",
+    "hardhat",
+    "ethersjs",
+    "dapp",
+    "e-voting"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.4"
+  }
+}
