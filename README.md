@@ -469,9 +469,9 @@ MIT License - See LICENSE file for details
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+Prarthana Panikar
+- LinkedIn: www.linkedin.com/in/prarthana-panikar-930983370
+
 
 ## 🙏 Acknowledgments
 
@@ -483,9 +483,7 @@ MIT License - See LICENSE file for details
 ## 📞 Contact
 
 For questions or collaboration:
-- Email: your.email@example.com
-- Project Issues: [GitHub Issues](https://github.com/yourusername/Blockchain-Based-Voting-System/issues)
-
+- Email: prarthanapanikar@gmail.com
 ---
 
 **Built with ❤️ for learning and education**
